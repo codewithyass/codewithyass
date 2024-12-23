@@ -5,14 +5,17 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar um pouco sobre mim, meus inter
 ---
 
 ## ✨ Sobre mim
-- 🔧 **Tecnologias:** 
+➤ 🔧 **Tecnologias:** 
   - Experiência em **Python**;
   - Explorando o universo do **C#**;
   - Apaixonada por **Banco de Dados** e tudo que envolve organização de informações;
-- 🚪 Atualmente atuando como **Suporte ao Cliente** na empresa RCR Sistemas;
-- 🎮 **Hobbies:**
+
+➤ 🚪 Atualmente atuando como **Suporte ao Cliente** na empresa RCR Sistemas;
+
+➤ 🎮 **Hobbies:**
   - Atualmente jogando **Valorant**, mas sou apaixonada pela franquia **Resident Evil**;
-- 🎶 **Gosto musical:**
+
+➤ 🎶 **Gosto musical:**
   - Fã de **Sabrina Carpenter** e **The Weeknd**;
 
 ---
