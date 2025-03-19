@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar um pouco sobre mim, meus inter
   - Explorando o universo do **C#**;
   - Apaixonada por **Banco de Dados** e tudo que envolve organização de informações;
 
-➤ 🚪 Atualmente atuando como **Suporte ao Cliente** na empresa RCR Sistemas;
+➤ 🚪 Atualmente atuando como **Analista de Suporte** na empresa RCR Sistemas;
 
 ➤ 🎮 **Hobbies:**
   - Atualmente jogando **Valorant**, mas sou apaixonada pela franquia **Resident Evil**;
