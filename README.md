@@ -1,6 +1,6 @@
 # Oi, eu sou a Yas! 🎀
 
-Bem-vindo ao meu perfil! Aqui você vai encontrar um pouco sobre mim, meus interesses e minha jornada de estudos.
+<!--##Bem-vindo ao meu perfil! Aqui você vai encontrar um pouco sobre mim, meus interesses e minha jornada de estudos.
 
 ---
 
