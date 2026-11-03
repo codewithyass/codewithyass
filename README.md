@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=722F37&height=200&section=header&text=Oi,%20eu%20sou%20a%20Yas!&fontSize=48&fontColor=F8C8DC&animation=fadeIn&fontAlignY=38&desc=código%20com%20elegância%20e%20um%20toque%20de%20doçura&descAlignY=60&descSize=18&descColor=FFE4EE" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=722F37&height=200&section=header&text=Oi,%20eu%20sou%20a%20Yas!&fontSize=48&fontColor=F8C8DC&animation=fadeIn&fontAlignY=50" width="100%" alt="Banner"/>
 
 <br/>
 
@@ -70,8 +70,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithyass&show_icons=true&bg_color=FDEBF2&title_color=722F37&text_color=5A2A3A&icon_color=A23B5C&border_color=F8C8DC&border_radius=16" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyass&layout=compact&bg_color=FDEBF2&title_color=722F37&text_color=5A2A3A&border_color=F8C8DC&border_radius=16" alt="Linguagens" />
+![Repositórios](https://img.shields.io/badge/repositórios-5-722F37?style=for-the-badge&labelColor=F8C8DC)
+![Linguagem principal](https://img.shields.io/github/languages/top/codewithyass/saya-beads-erp?style=for-the-badge&label=linguagem%20principal&color=722F37&labelColor=F8C8DC)
+![Commits](https://img.shields.io/github/commit-activity/t/codewithyass/saya-beads-erp?style=for-the-badge&label=commits%20no%20ERP&color=722F37&labelColor=F8C8DC)
+![Último commit](https://img.shields.io/github/last-commit/codewithyass/saya-beads-erp?style=for-the-badge&label=último%20commit&color=722F37&labelColor=F8C8DC)
 
 </div>
 
